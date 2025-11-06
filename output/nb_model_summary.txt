@@ -1,0 +1,25 @@
+
+Call:
+glm.nb(formula = bins ~ island_age, data = dfh_bin_regions, init.theta = 9.31173325, 
+    link = log)
+
+Coefficients:
+            Estimate Std. Error z value Pr(>|z|)    
+(Intercept)   3.7107     0.2997  12.382   <2e-16 ***
+island_age   -0.1754     0.1100  -1.594    0.111    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for Negative Binomial(9.3117) family taken to be 1)
+
+    Null deviance: 8.072  on 4  degrees of freedom
+Residual deviance: 5.161  on 3  degrees of freedom
+AIC: 43.204
+
+Number of Fisher Scoring iterations: 1
+
+
+              Theta:  9.31 
+          Std. Err.:  8.10 
+
+ 2 x log-likelihood:  -37.204 
