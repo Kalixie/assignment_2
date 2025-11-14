@@ -1,3 +1,7 @@
+#ATTRIBUTIONS
+## Original Script & Projection Creation: Sabrina
+## Edits and modifications: Nadira
+
 # Load in necessary libraries
 library(tidyverse)
 conflicted::conflict_prefer("filter", "dplyr")
