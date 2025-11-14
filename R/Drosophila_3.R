@@ -1,5 +1,5 @@
 #ATTRIBUTIONS
-## Original Script & Projection Creation: Sabrina
+## Original Script & Project Creation: Sabrina
 ## Edits and modifications: Nadira
 
 # Load in necessary libraries
